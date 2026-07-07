@@ -67,4 +67,4 @@ func (p *paymentModule) AllInfo() map[int]transaction {
 	return p.mapInfo
 }
 
-func main() {}
+func main() {
